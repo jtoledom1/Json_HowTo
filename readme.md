@@ -7,7 +7,7 @@ Por ejemplo en juegos en tiempo real
 
 Disminuir tiempo de ejecucuión.
 
-En *no relacional* se habla de archivos. 
+En **no relacional** se habla de archivos. 
 
 Json ayuda a crear y modificar archivos
 
