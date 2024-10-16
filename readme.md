@@ -30,3 +30,6 @@ Abstracción: métodos declarados sin estructura
 Polimorfismo: un mismo método/atributo tinen distinstos valores entre clases hijas
 
 Modificador de acceso : Público, privado: sólo entre la misma clase, Protegido: entre la misma clase y clases hijas 
+
+## JavaScript
+Le da una interactividad dinámica a una web
