@@ -33,3 +33,6 @@ Modificador de acceso : Público, privado: sólo entre la misma clase, Protegido
 
 ## JavaScript
 Le da una interactividad dinámica a una web
+Funciona con etiquetas tipo html "</script>"
+Función: tu las puedes cambiar
+método: onclick
