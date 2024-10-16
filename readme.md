@@ -36,3 +36,9 @@ Le da una interactividad dinámica a una web
 Funciona con etiquetas tipo html "</script>"
 Función: tu las puedes cambiar
 método: onclick
+Declaras variables con let o var
+### Estructuras de datos:
+#### Cola:
+el primero en llegar es el primero en salir 
+#### Pila:
+el ultimo en llegar a la pila es el primero en salir
