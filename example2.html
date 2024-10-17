@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>JavaScript Objects</h1>
+<h2>Accessing Nested Objects</h2>
+
+<p id="demo"></p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+
+
+<script>
+// Create nested Objects
+const myObj = {
+  name: "John",
+  age: 30,
+  myCars: {
+    car1: "Ford",
+    car2: "BMW",
+    car3: "Fiat"
+  }
+}
+const empleado={
+	ap:"Toledo",
+    am:"Muñiz",
+    Sueldo:"59040",
+    departamento:{
+     depa1:"Cocina",
+     depa2:"Hab",
+     depa3:"zz"
+    }
+    }
+x="depa1";
+y="depa2";
+z="depa3";
+document.getElementById("demo").innerHTML = empleado["departamento"][x];
+document.getElementById("demo1").innerHTML = empleado["departamento"][y];
+document.getElementById("demo2").innerHTML = empleado["departamento"][z];
+
+</script>
+
+</body>
+</html>
