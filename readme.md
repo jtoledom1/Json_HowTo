@@ -42,10 +42,15 @@ Declaras variables con let o var
 el primero en llegar es el primero en salir 
 #### Pila:
 el ultimo en llegar a la pila es el primero en salir
-push
-pop
+push: inserta datos
+pop: extrae datos
 *Es estática pero tambienpuede ser dinámica*
 #### Listas ligadas:
 Conformadas por dato y apuntador
 apunta al siguiente nodo dode está relacionada
 *Esta es dinamica*: Se puede crecer tanto quiera
+## POOO
+Métodos: se dividen en
+
+Retornan valores: Funciones 
+No retornan valores: procedimientos
