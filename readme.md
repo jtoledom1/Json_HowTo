@@ -32,25 +32,46 @@ Polimorfismo: un mismo método/atributo tinen distinstos valores entre clases hi
 Modificador de acceso : Público, privado: sólo entre la misma clase, Protegido: entre la misma clase y clases hijas 
 
 ## JavaScript
+
 Le da una interactividad dinámica a una web
+
 Funciona con etiquetas tipo html "</script>"
+
 Función: tu las puedes cambiar
+
 método: onclick
+
 Declaras variables con let o var
+
 ### Estructuras de datos:
+
 #### Cola:
+
 el primero en llegar es el primero en salir 
+
+
 #### Pila:
+
 el ultimo en llegar a la pila es el primero en salir
+
 push: inserta datos
+
 pop: extrae datos
 *Es estática pero tambienpuede ser dinámica*
+
 #### Listas ligadas:
+
 Conformadas por dato y apuntador
+
 apunta al siguiente nodo dode está relacionada
+
 *Esta es dinamica*: Se puede crecer tanto quiera
+
+
 ## POOO
+
 Métodos: se dividen en
 
 Retornan valores: Funciones 
+
 No retornan valores: procedimientos
