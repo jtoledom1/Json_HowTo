@@ -1,0 +1,34 @@
+/*{"employees" : [
+{ "firstName": "John", "lastName": "Doe" },
+{"firstName" : "Anna", "lastName":"Smith" },
+{"firstName": "Peter", "lastName": "Jones" }
+]}
+
+{
+"employees" : [
+{"name":"Andy","Age":30,"City":"Pueblayork"}
+]
+}
+*/
+/*{"myObj":[{
+"name":"John","age":30,"Cars":{
+"car1":"Ford",
+"car2":"Cujpra",
+"car3":"s 300"
+}},{
+"name":"Carlos bb","age":20,"Cars":{
+"car1":"Ford",
+"car2":"Fiat",
+"car3":"Chrysler"
+}}
+]}
+*/
+myObj = {
+    "name" : "John",
+    "age": 30,
+    "cars": [
+    { "name": "Ford", "models": [ "Fiesta", "Focus", "Mustang" ] },
+    { "name": "BMW", "models" : [ "320", "X3", "X5" ] },
+    { "name" : "Fiat", "models": [ "500", "Panda" ] }
+    ]
+    }
